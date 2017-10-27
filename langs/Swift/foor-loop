@@ -1,5 +1,4 @@
 // imprimiría hasta 9
-
 for i in 0 ..< 10 {
  
     print (i)  // incrementaré uno con cada iteración del ciclo for
@@ -7,7 +6,6 @@ for i in 0 ..< 10 {
 }
 
 // imprimiría hasta 10
-
 for i in 0 ... 10 {
  
     print (i)
